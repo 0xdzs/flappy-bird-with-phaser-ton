@@ -1,3 +1,5 @@
+https://gist.github.com/barinbritva/b3db1605f2667b7562b53a23877c0e73
+
 # flappy-bird-server
 
 Also see [ARCHITECTURE.md](/ARCHITECTURE.md)
